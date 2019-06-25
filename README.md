@@ -1,4 +1,5 @@
 # practica2do-170619
+<<<<<<< HEAD
 # practica2do-170619
 # practica2do-170619
 # practica2do-170619
@@ -99,3 +100,5 @@
 # practica2do-170619
 # practica2do-170619
 # practica2do-170619
+###### practica2do-170619
+###### practica2do-170619
